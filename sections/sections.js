@@ -1,6 +1,6 @@
 /* =========================================================
    SECTIONS.JS
-   Construction de toute la page à partir des fichiers data/
+   Construction de toute la page à partir des fichiers data
    ========================================================= */
 
 const app = document.getElementById("app");
