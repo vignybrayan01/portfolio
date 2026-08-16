@@ -16,29 +16,25 @@ const EXPERIENCES = [
             "",
 
         missionsFr: [
-            "Contribution à la mise en place d’un Data Catalog commun aux équipes d’ArcelorMittal France afin de centraliser, structurer, documenter et gouverner les données industrielles.",
+            "Contribution à la mise en place d’un Data Catalog commun aux équipes d’ArcelorMittal France pour centraliser, documenter et gouverner les données industrielles.",
             "Structuration, documentation et référencement de plus de 500 datasets afin d’améliorer leur découvrabilité, leur compréhension et leur réutilisation par les équipes Data et métiers.",
-            "Développement de traitements Python et PySpark pour automatiser la collecte, la transformation et la synchronisation des métadonnées issues des systèmes et bases de données internes vers DataGalaxy.",
-            "Conception de plusieurs mécanismes d’alimentation de DataGalaxy — saisie manuelle, templates structurés et API REST — afin d’intégrer les métadonnées provenant de sources présentant des structures différentes.",
-            "Reconstruction automatisée du lignage technique SQL avec SQLGlot afin d’identifier les tables sources, les transformations appliquées et les dépendances entre colonnes.",
-            "Exploitation du lignage SQL pour améliorer la traçabilité des données, faciliter l’analyse des dépendances et renforcer la compréhension des flux entre les différents systèmes.",
-            "Mise en place de processus permettant de maintenir les métadonnées à jour et d’améliorer leur fiabilité au sein du Data Catalog.",
-            "Réduction d’environ 75 % du temps nécessaire à l’identification des données pertinentes, faisant passer une recherche moyenne de 20–30 minutes à moins de 6 minutes.",
-            "Collaboration avec les équipes métiers pour identifier les usages des données, les responsabilités associées, les besoins de documentation et les informations nécessaires à leur exploitation.",
-            "Contribution à la définition et à la documentation des pratiques de Data Governance et Metadata Management afin de faciliter la maintenance, la transmission et l’adoption du Data Catalog."
+            "Développement de traitements Python et PySpark pour automatiser la collecte, la transformation et la synchronisation des métadonnées vers DataGalaxy.",
+            "Conception de plusieurs mécanismes d’alimentation de DataGalaxy — saisie manuelle, templates structurés et API REST — pour intégrer des sources aux structures différentes.",
+            "Automatisation de la reconstruction du lignage technique SQL avec SQLGlot, permettant d’identifier les sources, transformations et dépendances entre colonnes afin de renforcer la traçabilité des données.",
+            "Mise en place de processus de mise à jour et de contrôle des métadonnées pour améliorer leur fiabilité et leur qualité au sein du Data Catalog.",
+            "Réduction d’environ 75 % du temps d’identification des données pertinentes, passant de 20–30 minutes à moins de 6 minutes en moyenne.",
+            "Collaboration avec les équipes métiers pour définir les usages, responsabilités et besoins de documentation, ainsi que pour contribuer aux pratiques de Data Governance et Metadata Management."
         ],
 
         missionsEn: [
-            "Contributed to the implementation of a shared Data Catalog across ArcelorMittal France teams to centralize, structure, document, and govern industrial data.",
+            "Contributed to the implementation of a shared Data Catalog across ArcelorMittal France teams to centralize, document, and govern industrial data.",
             "Structured, documented, and catalogued more than 500 datasets to improve their discoverability, understanding, and reuse by Data and business teams.",
-            "Developed Python and PySpark processes to automate the collection, transformation, and synchronization of metadata from internal systems and databases into DataGalaxy.",
-            "Designed several DataGalaxy ingestion mechanisms — manual entry, structured templates, and REST APIs — to integrate metadata from sources with different structures.",
-            "Automated the reconstruction of technical SQL data lineage using SQLGlot to identify source tables, applied transformations, and dependencies between columns.",
-            "Leveraged SQL lineage to improve data traceability, facilitate dependency analysis, and strengthen the understanding of data flows across different systems.",
-            "Implemented processes to keep metadata up to date and improve its reliability within the Data Catalog.",
-            "Reduced the time required to identify relevant data by approximately 75%, bringing average search time down from 20–30 minutes to less than 6 minutes.",
-            "Collaborated with business teams to identify data use cases, ownership responsibilities, documentation requirements, and information needed for data exploitation.",
-            "Contributed to defining and documenting Data Governance and Metadata Management practices to facilitate the maintenance, knowledge transfer, and adoption of the Data Catalog."
+            "Developed Python and PySpark processes to automate metadata collection, transformation, and synchronization into DataGalaxy.",
+            "Designed several DataGalaxy ingestion mechanisms — manual entry, structured templates, and REST APIs — to integrate sources with different structures.",
+            "Automated the reconstruction of technical SQL data lineage using SQLGlot, identifying data sources, transformations, and column dependencies to strengthen data traceability.",
+            "Implemented metadata update and quality control processes to improve data reliability and quality within the Data Catalog.",
+            "Reduced the time required to identify relevant data by approximately 75%, from 20–30 minutes to less than 6 minutes on average.",
+            "Collaborated with business teams to define data use cases, ownership, and documentation requirements, while contributing to Data Governance and Metadata Management practices."
         ],
 
         technologies: [
