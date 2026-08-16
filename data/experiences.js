@@ -10,29 +10,35 @@ const EXPERIENCES = [
         company: "ArcelorMittal — Florange",
 
         descriptionFr:
-            "Mise en place d'un Data Catalog pour centraliser, structurer et gouverner les données industrielles d'ArcelorMittal France.",
+            "",
 
         descriptionEn:
-            "Implementation of a Data Catalog to centralize, structure and govern industrial data across ArcelorMittal France.",
+            "",
 
         missionsFr: [
-            "Participation à la mise en place d'un Data Catalog commun aux équipes d'ArcelorMittal France.",
-            "Structuration et documentation de plus de 500 datasets afin de faciliter leur découverte et leur réutilisation par les équipes data et métiers.",
-            "Automatisation en Python et PySpark de la collecte et de la synchronisation des métadonnées depuis les systèmes et bases de données internes vers DataGalaxy.",
-            "Réduction d'environ 75 % du temps nécessaire à l'identification des données pertinentes, faisant passer la recherche moyenne de 20–30 minutes à moins de 6 minutes.",
-            "Conception de méthodes d'alimentation manuelles, par templates et via API pour intégrer et maintenir les métadonnées à jour.",
-            "Collaboration avec les équipes métiers afin d'identifier les usages, les responsabilités et les besoins associés aux données.",
-            "Contribution à la mise en place des pratiques de gouvernance data et documentation des processus pour assurer leur maintenance et leur transmission."
+            "Contribution à la mise en place d’un Data Catalog commun aux équipes d’ArcelorMittal France afin de centraliser, structurer, documenter et gouverner les données industrielles.",
+            "Structuration, documentation et référencement de plus de 500 datasets afin d’améliorer leur découvrabilité, leur compréhension et leur réutilisation par les équipes Data et métiers.",
+            "Développement de traitements Python et PySpark pour automatiser la collecte, la transformation et la synchronisation des métadonnées issues des systèmes et bases de données internes vers DataGalaxy.",
+            "Conception de plusieurs mécanismes d’alimentation de DataGalaxy — saisie manuelle, templates structurés et API REST — afin d’intégrer les métadonnées provenant de sources présentant des structures différentes.",
+            "Reconstruction automatisée du lignage technique SQL avec SQLGlot afin d’identifier les tables sources, les transformations appliquées et les dépendances entre colonnes.",
+            "Exploitation du lignage SQL pour améliorer la traçabilité des données, faciliter l’analyse des dépendances et renforcer la compréhension des flux entre les différents systèmes.",
+            "Mise en place de processus permettant de maintenir les métadonnées à jour et d’améliorer leur fiabilité au sein du Data Catalog.",
+            "Réduction d’environ 75 % du temps nécessaire à l’identification des données pertinentes, faisant passer une recherche moyenne de 20–30 minutes à moins de 6 minutes.",
+            "Collaboration avec les équipes métiers pour identifier les usages des données, les responsabilités associées, les besoins de documentation et les informations nécessaires à leur exploitation.",
+            "Contribution à la définition et à la documentation des pratiques de Data Governance et Metadata Management afin de faciliter la maintenance, la transmission et l’adoption du Data Catalog."
         ],
 
         missionsEn: [
-            "Contributed to the implementation of a shared Data Catalog across ArcelorMittal France teams.",
-            "Structured and documented more than 500 datasets to improve discovery and reuse by data and business teams.",
-            "Automated metadata collection and synchronization to DataGalaxy using Python and PySpark.",
-            "Reduced data discovery time by approximately 75%, from an average of 20–30 minutes to less than 6 minutes.",
-            "Designed manual, template-based and API-driven ingestion methods to keep metadata up to date.",
-            "Collaborated with business teams to identify data usages, ownership and requirements.",
-            "Contributed to data governance practices and documented processes for long-term maintenance and knowledge transfer."
+            "Contributed to the implementation of a shared Data Catalog across ArcelorMittal France teams to centralize, structure, document, and govern industrial data.",
+            "Structured, documented, and catalogued more than 500 datasets to improve their discoverability, understanding, and reuse by Data and business teams.",
+            "Developed Python and PySpark processes to automate the collection, transformation, and synchronization of metadata from internal systems and databases into DataGalaxy.",
+            "Designed several DataGalaxy ingestion mechanisms — manual entry, structured templates, and REST APIs — to integrate metadata from sources with different structures.",
+            "Automated the reconstruction of technical SQL data lineage using SQLGlot to identify source tables, applied transformations, and dependencies between columns.",
+            "Leveraged SQL lineage to improve data traceability, facilitate dependency analysis, and strengthen the understanding of data flows across different systems.",
+            "Implemented processes to keep metadata up to date and improve its reliability within the Data Catalog.",
+            "Reduced the time required to identify relevant data by approximately 75%, bringing average search time down from 20–30 minutes to less than 6 minutes.",
+            "Collaborated with business teams to identify data use cases, ownership responsibilities, documentation requirements, and information needed for data exploitation.",
+            "Contributed to defining and documenting Data Governance and Metadata Management practices to facilitate the maintenance, knowledge transfer, and adoption of the Data Catalog."
         ],
 
         technologies: [
@@ -59,27 +65,29 @@ const EXPERIENCES = [
         company: "Université de Technologie de Troyes — Troyes",
 
         descriptionFr:
-            "Développement et finalisation d'une application métier dédiée à la gestion des départs étudiants en semestre à l'étranger.",
+            "",
 
         descriptionEn:
-            "Development and completion of a business application dedicated to managing student semesters abroad.",
+            "",
 
         missionsFr: [
-            "Développement et maintenance d'une application Symfony/PHP destinée à digitaliser la gestion des départs étudiants à l'étranger.",
-            "Correction des anomalies détectées lors de la phase pilote et finalisation des fonctionnalités avant généralisation de l'application.",
-            "Application utilisée par plus de 50 utilisateurs pour gérer les choix de cours, équivalences académiques et crédits ECTS liés aux mobilités internationales.",
-            "Réduction d'environ 40 % du temps de traitement des dossiers grâce à la digitalisation d'un processus auparavant largement manuel.",
-            "Amélioration de la fiabilité du suivi des Learning Agreements, annexes académiques et équivalences de cours.",
-            "Versioning et suivi du développement avec Git/GitLab, en collaboration avec la Direction du Numérique et les responsables académiques de l'UTT."
+            "Développement, maintenance et finalisation d’une application métier Symfony/PHP destinée à digitaliser la gestion des départs étudiants en semestre à l’étranger.",
+            "Correction des anomalies identifiées pendant la phase pilote et finalisation des fonctionnalités nécessaires à la généralisation de l’application.",
+            "Développement des fonctionnalités liées à la gestion des choix de cours, équivalences académiques, crédits ECTS, Learning Agreements et annexes académiques.",
+            "Mise à disposition d’une application utilisée par plus de 50 utilisateurs pour centraliser et suivre les démarches liées aux mobilités internationales.",
+            "Réduction d’environ 40 % du temps de traitement des dossiers grâce à la digitalisation d’un processus auparavant largement manuel.",
+            "Amélioration de la fiabilité et de la traçabilité du suivi des Learning Agreements, équivalences de cours et documents académiques.",
+            "Gestion du versioning et du cycle de développement avec Git et GitLab, en collaboration avec la Direction du Numérique et les responsables académiques de l’UTT."
         ],
 
         missionsEn: [
-            "Developed and maintained a Symfony/PHP application to digitalize the management of student semesters abroad.",
-            "Fixed issues identified during the pilot phase and completed features before wider deployment.",
-            "Application used by more than 50 users to manage course selections, academic equivalencies and ECTS credits related to international mobility.",
-            "Reduced application processing time by approximately 40% by digitalizing a previously largely manual business process.",
-            "Improved the reliability of Learning Agreement, academic appendix and course-equivalency tracking.",
-            "Managed development and versioning with Git/GitLab in collaboration with UTT's Digital Department and academic teams."
+            "Developed, maintained, and finalized a Symfony/PHP business application designed to digitalize the management of students leaving for a semester abroad.",
+            "Fixed issues identified during the pilot phase and finalized the features required for the application’s wider deployment.",
+            "Developed features related to course selection, academic equivalencies, ECTS credits, Learning Agreements, and academic appendices.",
+            "Delivered an application used by more than 50 users to centralize and track procedures related to international mobility.",
+            "Reduced application processing time by approximately 40% by digitalizing a previously largely manual process.",
+            "Improved the reliability and traceability of Learning Agreements, course equivalencies, and academic documents tracking.",
+            "Managed version control and the development lifecycle using Git and GitLab, in collaboration with the Digital Department and UTT academic coordinators."
         ],
 
         technologies: [
@@ -104,38 +112,36 @@ const EXPERIENCES = [
         company: "Sparta Care — Paris",
 
         descriptionFr:
-            "Développement d'une solution d'IA générative pour automatiser la production, l'analyse et le traitement de documentation qualité et réglementaire.",
+            "",
 
         descriptionEn:
-            "Development of a Generative AI solution to automate the production, analysis and processing of quality and regulatory documentation.",
+            "",
 
         missionsFr: [
-            "Développement de workflows Python et JavaScript intégrant des modèles d'IA générative afin d'automatiser l'analyse et la production documentaire.",
-            "Intégration et évaluation de modèles d'IA générative pour générer et analyser des documents réglementaires.",
-            "Conception et optimisation de prompts et de chaînes de traitement afin d'améliorer la qualité et la régularité des documents générés.",
-            "Industrialisation de workflows d'automatisation IA réduisant le cycle de production documentaire de 3 mois à environ 2 semaines.",
-            "Identification des tâches répétitives automatisables en collaboration directe avec des équipes métiers non techniques.",
-            "Test et déploiement des solutions développées, avec amélioration continue basée sur les retours des utilisateurs.",
-            "Documentation des outils et accompagnement des équipes internes afin de faciliter leur adoption."
+            "Conception et développement d’une solution d’IA générative destinée à automatiser la production, l’analyse et le traitement de documentation qualité et réglementaire.",
+            "Développement de workflows en Python intégrant des modèles d’IA générative via API afin d’automatiser les différentes étapes du traitement documentaire.",
+            "Intégration et évaluation de plusieurs modèles d’IA générative afin de comparer leur capacité à analyser et générer des documents réglementaires.",
+            "Conception, test et optimisation de prompts et chaînes de traitement LLM afin d’améliorer la qualité, la cohérence et la régularité des documents générés.",
+            "Industrialisation de workflows d’automatisation IA ayant permis de réduire le cycle global de production documentaire de 3 mois à environ 2 semaines.",
+            "Identification, avec les équipes métiers non techniques, des tâches répétitives et à faible valeur ajoutée pouvant être automatisées à l’aide de l’IA générative.",
+            "Test et développement progressif des solutions, avec amélioration continue basée sur les retours des utilisateurs.",
+            "Documentation des outils, workflows et méthodes d’utilisation afin de faciliter leur adoption et leur transmission aux équipes internes."
         ],
 
         missionsEn: [
-            "Developed Python and JavaScript workflows integrating Generative AI models to automate document analysis and production.",
-            "Integrated and evaluated Generative AI models for regulatory document generation and analysis.",
-            "Designed and optimized prompts and processing chains to improve the quality and consistency of generated documents.",
-            "Industrialized AI automation workflows, reducing the document production cycle from 3 months to approximately 2 weeks.",
-            "Identified repetitive tasks suitable for automation in collaboration with non-technical business teams.",
-            "Tested and deployed developed solutions with continuous improvements based on user feedback.",
-            "Documented the tools and supported internal teams to facilitate adoption."
+            "Designed and developed a generative AI solution to automate the production, analysis, and processing of quality and regulatory documentation.",
+            "Developed Python workflows integrating generative AI models through APIs to automate the different stages of document processing.",
+            "Integrated and evaluated multiple generative AI models to compare their ability to analyze and generate regulatory documents.",
+            "Designed, tested, and optimized prompts and LLM processing pipelines to improve the quality, consistency, and reliability of generated documents.",
+            "Industrialized AI automation workflows that reduced the overall document production cycle from 3 months to approximately 2 weeks.",
+            "Identified, together with non-technical business teams, repetitive and low-value tasks that could be automated using generative AI.",
+            "Progressively tested and developed the solutions, with continuous improvements based on user feedback.",
+            "Documented tools, workflows, and usage methods to facilitate their adoption and knowledge transfer within internal teams."
         ],
 
         technologies: [
             "Python",
-            "JavaScript",
-            "Google Apps Script",
             "OpenAI API",
-            "ChatGPT",
-            "Mistral",
             "LLM",
             "Prompt Engineering",
             "Automation",
@@ -154,23 +160,23 @@ const EXPERIENCES = [
         company: "INNOVATECH Association — Yaoundé",
 
         descriptionFr:
-            "Conception et prototypage de systèmes électroniques automatisés à partir de microcontrôleurs Arduino.",
+            "",
 
         descriptionEn:
-            "Design and prototyping of automated electronic systems using Arduino microcontrollers.",
+            "",
 
         missionsFr: [
-            "Conception, prototypage et programmation de systèmes automatisés avec Arduino.",
-            "Réalisation d'un prototype de maison intelligente intégrant différents capteurs et actionneurs.",
-            "Développement d'un traceur solaire capable d'orienter automatiquement un panneau en fonction de la position de la lumière.",
-            "Mise en pratique de la programmation embarquée, de l'électronique et du prototypage rapide."
+            "Conception, programmation et prototypage de systèmes électroniques automatisés basés sur des microcontrôleurs Arduino.",
+            "Développement d’un prototype de maison intelligente intégrant plusieurs capteurs et actionneurs pour automatiser certaines fonctions de l’environnement domestique.",
+            "Conception et programmation d’un traceur solaire automatisé capable d’orienter dynamiquement un panneau en fonction de la position de la source lumineuse.",
+            "Mise en œuvre de principes de programmation embarquée, d’électronique et d’interfaçage matériel/logiciel dans le cadre de prototypes fonctionnels."
         ],
 
         missionsEn: [
-            "Designed, prototyped and programmed automated systems using Arduino.",
-            "Built a smart-home prototype integrating multiple sensors and actuators.",
-            "Developed a solar tracking system capable of automatically orienting a panel according to light position.",
-            "Applied embedded programming, electronics and rapid prototyping techniques."
+            "Designed, programmed, and prototyped automated electronic systems based on Arduino microcontrollers.",
+            "Developed a smart home prototype integrating multiple sensors and actuators to automate various functions within a domestic environment.",
+            "Designed and programmed an automated solar tracker capable of dynamically orienting a panel according to the position of the light source.",
+            "Applied principles of embedded programming, electronics, and hardware/software interfacing to develop functional prototypes."
         ],
 
         technologies: [

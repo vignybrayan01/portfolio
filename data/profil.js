@@ -33,10 +33,10 @@ const PROFIL = {
 
 
     descriptionFr:
-        "Ingénieur informatique spécialisé en Intelligence Artificielle et Data Engineering, avec une expérience en IA générative, architectures RAG, automatisation de workflows et systèmes Big Data. J'interviens sur l'ensemble du cycle de vie de la donnée et des applications IA : collecte, transformation, gouvernance, orchestration, intégration de LLM et déploiement. Je recherche un poste d'Ingénieur IA ou Data Engineer à partir de septembre 2026.",
+        "Ingénieur informatique spécialisé en Intelligence Artificielle et Data Engineering, avec une expérience en IA générative, architectures RAG, automatisation de workflows, Data Management et systèmes Big Data. J’interviens sur l’ensemble du cycle de vie de la donnée et des applications IA : collecte et transformation des données, gestion des métadonnées, gouvernance, orchestration de pipelines, intégration de LLM et industrialisation des solutions. Je recherche un poste d’AI Engineer ou Data Engineer à partir de septembre 2026.",
 
     descriptionEn:
-        "Computer Engineer specializing in Artificial Intelligence and Data Engineering, with experience in Generative AI, RAG architectures, workflow automation and Big Data systems. I work across the full lifecycle of data and AI applications, from ingestion and transformation to governance, orchestration, LLM integration and deployment. I am looking for an AI Engineer or Data Engineer position starting September 2026.",
+        "Computer Engineer specialized in Artificial Intelligence and Data Engineering, with experience in generative AI, RAG architectures, workflow automation, Data Management, and Big Data systems. I work across the entire data and AI application lifecycle, including data collection and transformation, metadata management, governance, pipeline orchestration, LLM integration, and solution industrialization. I am seeking an AI Engineer or Data Engineer position starting in September 2026.",
 
 
     tags: [
